@@ -101,14 +101,14 @@ List of GAME ID's in Uplay by Ubisoft
 
 # To be verifyed
 276 - Prince of Persia  
-437 - Assassin’s Creed® IV Black Flag™ (unknown Version)  
-632 - Assassin's Creed® Liberation HD (RU) ?  
-856 - Far Cry® 4 (unknown Version)  
-857 - Assassin's Creed Unity (unknown Version)  
-934 - Assassin's Creed Rogue (unknown Version)  
+437 - Assassin’s Creed® IV Black Flag™ (unknown Version)   ← steam version
+632 - Assassin's Creed® Liberation HD (RU) ?  ← No RU、its steam version
+856 - Far Cry® 4 (unknown Version)  ← steam version
+857 - Assassin's Creed Unity (unknown Version)  ← steam version
+934 - Assassin's Creed Rogue (unknown Version)  ← steam version
 1428 - Watch Dogs (US) ?  
-2029 - Far Cry® Primal (RU) ?  
-2052 - Anno 2205 (unknown Version)  
-5184 - Assassin's Creed® III Remastered (RU) ?
+2029 - Far Cry® Primal (RU) ?  ← No RU、its steam version
+2052 - Anno 2205 (unknown Version)  ← steam version
+5184 - Assassin's Creed® III Remastered (RU) ? ← No RU、its steam version
 
 More: https://github.com/d3adm4u5/UplayGameIDs/blob/master/latest.txt
